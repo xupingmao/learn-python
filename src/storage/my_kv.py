@@ -4,9 +4,9 @@
 @email        : 578749341@qq.com
 @Date         : 2023-02-01 23:15:02
 @LastEditors  : xupingmao
-@LastEditTime : 2023-02-05 13:21:29
+@LastEditTime : 2023-02-05 13:45:55
 @FilePath     : /xnoted:/projects/learn-python/src/storage/my_kv.py
-@Description  : 键值对存储
+@Description  : 键值对存储，基于Bitcask模型
 """
 
 import json
